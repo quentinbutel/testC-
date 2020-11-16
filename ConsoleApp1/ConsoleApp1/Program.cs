@@ -8,14 +8,18 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Voiture voiturelente = new Voiture();
+            Voiture voiture1 = new Voiture();
             VoitureRapide voitureRapide = new VoitureRapide();
+            
             Voiture voiture = new VoitureRapide();
+            Voiture voitureLente = new VoitureLente();
 
-            voiturelente.Rouler();
+            voiture1.Rouler();
             voitureRapide.Rouler();
             voiture.Rouler();
-
+            voitureLente.Rouler();
+            Console.WriteLine("Welcome on Visual Studio !");
+            Console.ReadKey();
         }
 
        

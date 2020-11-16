@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\qbute\\Documents\\C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\qbute\\Documents\\C#\\testC-\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\qbute\\Documents\\C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\qbute\\Documents\\C#\\testC-\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\qbute\\.nuget\\packages\\",
-      "outputPath": "D:\\qbute\\Documents\\C#\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\qbute\\Documents\\C#\\testC-\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\qbute\\AppData\\Roaming\\NuGet\\NuGet.Config",

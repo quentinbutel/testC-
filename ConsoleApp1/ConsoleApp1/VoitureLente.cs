@@ -4,12 +4,11 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    class VoitureRapide : Voiture
-
+    class VoitureLente : Voiture
     {
-        public new void Rouler()
+        public override void Rouler()
         {
-            Console.WriteLine("Je roule vite");
+            Console.WriteLine("Je roule lentement");
         }
     }
 }
